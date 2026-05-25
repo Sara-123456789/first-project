@@ -1,0 +1,6 @@
+input[type=submit]:hover,
+input[type=submit]:focus{
+    background: green;
+    outline: none;
+}
+video: https://www.youtube.com/watch?v=rsYXPoTi13I
